@@ -1,0 +1,1 @@
+{"$comment":"SahayakOS is now Makearn. This site redirects every path to the new Makearn studio site.","redirects":[{"destination":"https://diwashui.github.io/makearn/$1","permanent":true,"source":"/(.*)"}]}
